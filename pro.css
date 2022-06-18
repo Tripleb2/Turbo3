@@ -1,0 +1,29 @@
+ul{
+    background-color: black;
+    list-style:none;
+    padding: 0%;
+    margin: 0%;
+    overflow: hidden;
+}
+li{
+    display: inline;
+    float:left;
+}
+li a{
+    padding: 16px 14px;
+    text-decoration: none;
+    text-align:none;
+    color: rgba(56, 215, 8, 0.626);
+    }
+.edu{
+    margin-left: 10%;
+    font-size: 550%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}    
+.sign{
+    border-radius:70%;
+    margin-top: 30px;
+    border-width:30px ;
+    border: 50px;
+}
+
